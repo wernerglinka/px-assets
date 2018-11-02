@@ -14,7 +14,7 @@ To make an svg file follow these steps:
 
 An example would look like this:
 
-
+````
 <svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="shield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="shield-container" fill-rule="nonzero">
@@ -24,12 +24,14 @@ An example would look like this:
         </g>
     </g>
 </svg>
+````
 
 - To make this svg responsive we'll delete the width and height attributes in the svg tag
 - To avoid having duplicate IDs in the future when using the same svg multiple times on a page we convert all unique IDs into classes by replacing all _id="_ with _class="_
 
 This will result into:
 
+````
 <svg viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g class="shield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g class="shield-container" fill-rule="nonzero">
@@ -39,3 +41,4 @@ This will result into:
         </g>
     </g>
 </svg>
+````
