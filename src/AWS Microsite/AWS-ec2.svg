@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="94px" viewBox="0 0 78 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>aws-ec2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="AWS-Microsite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="R3-B---AWS-Budget" transform="translate(-446.000000, -1173.000000)" fill-rule="nonzero">
+            <g id="Section-3" transform="translate(0.000000, 993.000000)">
+                <g id="Amazon-EC2" transform="translate(436.000000, 180.000000)">
+                    <g id="aws-ec2" transform="translate(10.000000, 0.000000)">
+                        <polyline id="Path" fill="#F68536" points="13 74.9214373 4 77 4 18 13 20.0825213 13 74.9214373"></polyline>
+                        <path d="M24.3780329,77.8318516 L13,81.0578785 L13,12.9588477 L24.3780329,16.1809211 L24.3780329,77.8318516 M38.9736642,81.4051751 L24.3780329,86.734445 L24.3780329,7.28228123 L38.9736642,12.6091182 L38.9736642,81.4051751 M78,74.5316212 L38.9736642,94 L38.9736642,0 L78,19.4683788 L78,74.5316212" id="Shape" fill="#F68536"></path>
+                        <path d="M31.2216995,3.8813896 L39,0 L39,94 L31.2216995,90.1198268 L31.2216995,3.8813896 M18.385157,10.2850894 L24.4064673,7.28106478 L24.4064673,86.7189352 L18.385157,83.7149106 L18.385157,10.2850894 M8.23362456,15.3506936 L13.0300705,12.9576313 L13.0300705,81.0423687 L8.23362456,78.6477858 L8.23362456,15.3506936 M3.91200788,17.506244 L0,19.4580389 L0,74.5431775 L3.91200788,76.493756 L3.91200788,17.506244" id="Shape" fill="#9D5025"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

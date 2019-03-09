@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="94px" viewBox="0 0 78 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="AWS-Microsite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="R3-B---AWS-Budget" transform="translate(-941.000000, -1173.000000)">
+            <g id="Section-3" transform="translate(0.000000, 993.000000)">
+                <g id="AWS-Lambda" transform="translate(929.000000, 180.000000)">
+                    <g id="Group-10" transform="translate(12.000000, 0.000000)">
+                        <polygon id="Fill-1" fill="#9D5025" points="0 19.4782198 0 74.5217802 5.15434717 77 6 75.5560851 6 18.0610022 5.15434717 17"></polygon>
+                        <polygon id="Fill-2" fill="#F68536" points="14 19.3476673 5 17 5 77 14 74.7826185"></polygon>
+                        <polygon id="Fill-3" fill="#6B3A19" points="44 24.3287564 50.702065 21 73 29.2603159 67.0712059 30"></polygon>
+                        <polygon id="Fill-4" fill="#FBBF93" points="45 69.6713845 51.6027026 73 74 64.7399454 68.0447069 64"></polygon>
+                        <path d="M11,14.6370593 L18.2463032,11 L19.0379711,12.5323032 L19.0379711,82.3884624 L18.2463032,84 L11,80.3629407 L11,14.6370593 L11,14.6370593 Z M45.5490024,60.8788448 L57.324021,62.4377344 L58,61.2199316 L58,34.0032598 L57.324021,32.5622656 L45.5490024,34.1208928 L45.5490024,60.8788448 Z" id="Fill-5" fill="#9D5025"></path>
+                        <polygon id="Fill-6" fill="#F68536" points="33 79.1855343 18 84 18 11 33 15.8147286"></polygon>
+                        <path d="M38.8514786,0 L27,5.87504005 L27,88.1250353 L38.8514786,94 L40.091557,92.6034441 L40.091557,1.72249681 L38.8514786,0 Z M67.3482163,29.8970902 L67.3482163,64.2333918 L73.4739143,65.0166601 L74,64.1334009 L74,29.8630563 L73.4739143,29.1138218 L67.3482163,29.8970902 Z" id="Fill-7" fill="#9D5025"></path>
+                        <polygon id="Fill-8" fill="#F68536" points="58 32 58 62 70 46.93512"></polygon>
+                        <path d="M39,0 L39,94 L78,74.5472664 L78,19.4527713 L73.0268915,16.9722583 L39,0 Z M50.6476201,22.2704191 L73.0268915,28.9378107 L73.0268915,65.0621893 L50.6476201,71.7296563 L50.6476201,22.2704191 Z" id="Fill-9" fill="#F68536"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
