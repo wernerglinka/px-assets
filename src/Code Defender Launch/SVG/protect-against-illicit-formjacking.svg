@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+<<<<<<< HEAD
     <title>Artboard Copy 3</title>
     <desc>Created with Sketch.</desc>
     <g id="Artboard-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -23,5 +24,65 @@
             <path d="M250.161062,46.8024247 C249.516364,48.0846015 257.886547,70.5324582 262.392899,92.9803149 C266.901428,115.428172 245.010013,114.785998 239.214266,110.937299 C233.418519,107.090768 233.418519,75.6633349 207.663272,69.8924545 C191.138532,66.1891114 156.797477,40.3872017 156.797477,40.3872017 C156.797477,40.3872017 144.249826,43.2400993 134,44.3747499 L157.548899,2 L238.974682,2.42305326 L250.161062,46.8024247 Z" id="Fill-33" fill="#FFFFFF"></path>
             <path d="M277,65.8574246 C275.701957,58.1187025 251.785894,47.158421 251.137971,48.447481 C250.487851,49.736541 258.92623,72.3049056 263.472676,94.8732702 C268.016926,117.439454 245.941405,116.796014 240.096916,112.926653 C234.254623,109.059473 234.254623,77.4633266 208.282776,71.659285 C191.619064,67.9360611 156.987006,42 156.987006,42 C156.987006,42 144.336026,44.8660318 134,46.0045924" id="Stroke-35" stroke="#EC1C24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
         </g>
+=======
+    <title>protect-against-illicit-formjacking</title>
+    <desc>Created with Sketch.</desc>
+    <g id="protect-against-illicit-formjacking" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Fill-1" fill="#EEEEEE" points="6 111 494 111 494 36 6 36"></polygon>
+        <polygon id="Stroke-2" stroke="#0F222E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="493.626481 354.343629 493.626481 463.997845 6.00092075 463.997845 6.00092075 37.2880029 493.626481 37.2880029 493.626481 310.995542"></polygon>
+        <path d="M91.1676629,75.1044201 C91.1676629,80.5175424 86.794078,84.9083914 81.3984553,84.9083914 C76.0028327,84.9083914 71.6292478,80.5175424 71.6292478,75.1044201 C71.6292478,69.6882187 76.0028327,65.3004489 81.3984553,65.3004489 C86.794078,65.3004489 91.1676629,69.6882187 91.1676629,75.1044201" id="Fill-4" fill="#8A8A8A"></path>
+        <path d="M122.288252,75.1044201 C122.288252,80.5175424 117.911597,84.9083914 112.515975,84.9083914 C107.123421,84.9083914 102.746767,80.5175424 102.746767,75.1044201 C102.746767,69.6882187 107.123421,65.3004489 112.515975,65.3004489 C117.911597,65.3004489 122.288252,69.6882187 122.288252,75.1044201" id="Fill-6" fill="#8A8A8A"></path>
+        <path d="M56.7412579,75.1044201 C56.7412579,80.5175424 52.3646038,84.9083914 46.9689811,84.9083914 C41.5764277,84.9083914 37.1997736,80.5175424 37.1997736,75.1044201 C37.1997736,69.6882187 41.5764277,65.3004489 46.9689811,65.3004489 C52.3646038,65.3004489 56.7412579,69.6882187 56.7412579,75.1044201" id="Fill-8" fill="#8A8A8A"></path>
+        <path d="M60.1139824,463.618694 C49.9549887,463.618694 41.7203723,470.806275 41.7203723,459.618694 L41.7203723,155.880759 C41.7203723,144.693178 49.9549887,135.618694 60.1139824,135.618694 L439.514033,135.618694 C449.673026,135.618694 457.904574,144.693178 457.904574,155.880759 L457.904574,459.360009 C457.904574,470.54759 449.673026,463.618694 439.514033,463.618694 L60.1139824,463.618694 Z" id="Fill-12" fill="#282525"></path>
+        <polyline id="Stroke-16" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="141.371814 181.46396 157.973021 198.122089 141.19687 214.95265"></polyline>
+        <polyline id="Stroke-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="97.5549384 214.952342 80.7787874 198.121781 97.5549384 181.29122"></polyline>
+        <path d="M128.108956,181.46396 L112.517509,214.924938" id="Stroke-20" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polyline id="Stroke-22" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="381.235477 262.898504 397.836684 279.553554 381.060533 296.387194"></polyline>
+        <polyline id="Stroke-24" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="335.998184 296.387194 319.222033 279.553554 335.998184 262.722993"></polyline>
+        <path d="M366.554964,262.898504 L350.963517,296.359482" id="Stroke-26" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M184.553062,197.85482 L222.316282,197.85482" id="Stroke-28" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M244.192186,197.85482 L284.38313,197.85482" id="Stroke-30" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M170.001454,281.15686 L203.605932,281.15686" id="Stroke-32" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M225.399582,281.15686 L292.034601,281.15686" id="Stroke-34" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M184.553062,218.410521 L209.864609,218.410521" id="Stroke-36" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M231.666853,218.410521 L248.952488,218.410521" id="Stroke-38" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M319.770803,218.410521 L342.501167,218.410521" id="Stroke-40" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M270.235426,218.410521 L302.91915,218.410521" id="Stroke-42" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M130.341786,239.269824 L147.627421,239.269824" id="Stroke-44" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M311.603401,239.269824 L328.889036,239.269824" id="Stroke-46" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M165.10396,239.269824 L190.185318,239.269824" id="Stroke-48" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M216.758606,239.269824 L234.044242,239.269824" id="Stroke-50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M257.173293,239.269824 L292.39523,239.269824" id="Stroke-52" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M170.502038,260.213496 L209.864302,260.213496" id="Stroke-54" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M240.071195,260.213496 L276.76634,260.213496" id="Stroke-56" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polyline id="Stroke-58" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="141.371814 332.362596 157.973021 349.020725 141.19687 365.851286"></polyline>
+        <polyline id="Stroke-60" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="97.5549384 365.851286 80.7787874 349.020725 97.5549384 332.190164"></polyline>
+        <path d="M128.108956,332.362596 L112.517509,365.823574" id="Stroke-62" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polyline id="Stroke-64" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="381.235477 413.797447 397.836684 430.452498 381.060533 447.283059"></polyline>
+        <polyline id="Stroke-66" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="335.998184 447.283059 319.222033 430.452498 335.998184 413.621937"></polyline>
+        <path d="M366.554964,413.797447 L350.963517,447.258426" id="Stroke-68" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M184.553062,348.750685 L222.316282,348.750685" id="Stroke-70" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M244.192186,348.750685 L284.38313,348.750685" id="Stroke-72" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M170.001454,432.055496 L203.605932,432.055496" id="Stroke-74" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M225.399582,432.055496 L292.034601,432.055496" id="Stroke-76" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M184.553062,369.309157 L209.864609,369.309157" id="Stroke-78" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M231.666853,369.309157 L248.952488,369.309157" id="Stroke-80" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M319.770803,369.309157 L342.501167,369.309157" id="Stroke-82" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M270.235426,369.309157 L302.91915,369.309157" id="Stroke-84" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M130.341786,390.16846 L147.627421,390.16846" id="Stroke-86" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M311.603401,390.16846 L328.889036,390.16846" id="Stroke-88" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M165.10396,390.16846 L190.185318,390.16846" id="Stroke-90" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M216.758606,390.16846 L234.044242,390.16846" id="Stroke-92" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M257.173293,390.16846 L292.39523,390.16846" id="Stroke-94" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M170.502038,411.112132 L209.864302,411.112132" id="Stroke-96" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M240.071195,411.112132 L276.76634,411.112132" id="Stroke-98" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polygon id="Fill-100" fill="#EC1C24" points="215.247955 274.854176 209.895301 281.240305 204.162068 274.854176 204.162068 212.523212 209.701942 206.137082 215.247955 212.523212"></polygon>
+        <polygon id="Fill-102" fill="#EC1C24" points="215.247955 352.404081 209.895301 358.79021 204.162068 352.404081 204.162068 290.073117 209.701942 283.686987 215.247955 290.073117"></polygon>
+        <polygon id="Fill-104" fill="#EC1C24" points="293.71283 274.854176 288.360176 281.240305 282.626943 274.854176 282.626943 212.523212 288.166818 206.137082 293.71283 212.523212"></polygon>
+        <polygon id="Fill-106" fill="#EC1C24" points="293.71283 352.404081 288.360176 358.79021 282.626943 352.404081 282.626943 290.073117 288.166818 283.686987 293.71283 290.073117"></polygon>
+        <polygon id="Fill-108" fill="#EC1C24" points="280.294058 197.012984 286.659542 202.379919 280.294058 208.131747 218.164599 208.131747 211.799114 202.573905 218.164599 197.012984"></polygon>
+        <polygon id="Fill-110" fill="#EC1C24" points="280.875668 355.038282 287.244221 360.405217 280.875668 366.157045 218.746209 366.157045 212.380725 360.599203 218.746209 355.038282"></polygon>
+        <path d="M332.146667,182.314725 L156.239547,358.789286" id="Stroke-112" stroke="#EC1C24" stroke-width="4"></path>
+>>>>>>> a53a4a25468ae42c8c357d78ef21bd9bfe5b7bf2
     </g>
 </svg>
