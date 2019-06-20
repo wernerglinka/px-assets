@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>VendorAgnostic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="VendorAgnostic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-12" transform="translate(1.000000, 1.000000)">
+            <path d="M4.65116279,22.5 C4.65116279,23.8806899 3.60994413,25 2.3255814,25 C1.04121866,25 1.11022302e-14,23.8806899 1.11022302e-14,22.5 C1.11022302e-14,21.1193101 1.04121866,20 2.3255814,20 C3.60994413,20 4.65116279,21.1193101 4.65116279,22.5 Z" id="Stroke-1" stroke="#ED2028"></path>
+            <path d="M33.4186047,30.6177871 C30.2005886,35.0708556 24.740707,38 18.5465275,38 C12.3374386,38 6.86610715,35.0565855 3.65116279,30.5853659" id="Stroke-3" stroke="#ED2028"></path>
+            <path d="M21.3255814,2.7804878 C29.8739355,3.46702699 36.6678261,10.5973536 37.1395349,19.4634146" id="Stroke-5" stroke="#ED2028"></path>
+            <path d="M0.860465116,20.3902439 C0.860465116,13.5044192 5.02279101,7.54021238 11.0930233,4.63414634" id="Stroke-7" stroke="#ED2028"></path>
+            <polygon id="Stroke-9" stroke="#B2B2B2" points="9.23255814 15.7560976 28.7674419 15.7560976 28.7674419 11.1219512 9.23255814 11.1219512"></polygon>
+            <polygon id="Stroke-11" stroke="#B2B2B2" points="9.23255814 22.2439024 28.7674419 22.2439024 28.7674419 17.6097561 9.23255814 17.6097561"></polygon>
+            <polygon id="Stroke-12" stroke="#B2B2B2" points="9.23255814 28.7317073 28.7674419 28.7317073 28.7674419 24.097561 9.23255814 24.097561"></polygon>
+            <polygon id="Stroke-13" stroke="#ED2028" transform="translate(35.069049, 27.129225) rotate(11.000000) translate(-35.069049, -27.129225) " points="38.399056 28.0461875 34.1282797 30.4284696 31.7390413 26.2122627 36.0097089 23.8299809"></polygon>
+            <polygon id="Stroke-14" stroke="#ED2028" points="19.4651949 0 15.7441074 0 13.8837209 2.7804878 15.7441074 5.56097561 19.4651949 5.56097561 21.3255814 2.7804878"></polygon>
+            <path d="M11.0930233,12.9756098 L13.8837209,12.9756098" id="Stroke-15" stroke="#B2B2B2"></path>
+            <path d="M11.0930233,20.3902439 L13.8837209,20.3902439" id="Stroke-16" stroke="#B2B2B2"></path>
+            <path d="M11.0930233,26.8780488 L13.8837209,26.8780488" id="Stroke-17" stroke="#B2B2B2"></path>
+        </g>
+    </g>
+</svg>
