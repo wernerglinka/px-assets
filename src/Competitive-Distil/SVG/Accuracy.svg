@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Accuracy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Accuracy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(0.000000, 1.000000)">
+            <path d="M78,50 C78,65.463898 65.463898,78 50,78 C34.536102,78 22,65.463898 22,50 C22,34.536102 34.536102,22 50,22 C65.463898,22 78,34.536102 78,50 Z" id="Stroke-1" stroke="#B2B2B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M87,50 C87,70.4344367 70.4344367,87 50,87 C29.5655633,87 13,70.4344367 13,50 C13,29.5655633 29.5655633,13 50,13 C70.4344367,13 87,29.5655633 87,50 Z" id="Stroke-1" stroke="#B2B2B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-5" stroke="#EF2F37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="49 33 49 0 44 5.61702128"></polyline>
+            <polyline id="Stroke-7" stroke="#EF2F37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="50 66 50 99 55 94.0851064"></polyline>
+            <polyline id="Stroke-9" stroke="#EF2F37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33 50 0 50 5.61702128 55"></polyline>
+            <polyline id="Stroke-11" stroke="#EF2F37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="66 49 99 49 94.0851064 44"></polyline>
+            <path d="M61,49.5 C61,55.8510263 55.8510263,61 49.5,61 C43.1483684,61 38,55.8510263 38,49.5 C38,43.1489737 43.1483684,38 49.5,38 C55.8510263,38 61,43.1489737 61,49.5 Z" id="Stroke-13" stroke="#ED2028" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M42,86 C42,86.552 41.552,87 41,87 C40.448,87 40,86.552 40,86 C40,85.448 40.448,85 41,85 C41.552,85 42,85.448 42,86 Z" id="Stroke-23" fill="#B2B2B2"></path>
+        </g>
+    </g>
+</svg>
